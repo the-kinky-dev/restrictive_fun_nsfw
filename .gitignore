@@ -1,3 +1,4 @@
 *.stl
-./personalDimension.scad
-./playground/*
+personalDimensions.scad
+playground/
+moduleConfig.scad
