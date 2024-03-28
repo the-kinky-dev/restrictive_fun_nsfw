@@ -1,6 +1,6 @@
 ## Welcome to the restrictive_fun ([NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work)) project!
 
-This is the right place for all kinky developers to create restrictive and/or kinky 3d printed toys in OpenSCAD(https://openscad.org/). Have fun and be nice! :D
+This is the right place for all kinky developers to create restrictive and/or kinky 3d printed toys in [OpenSCAD](https://openscad.org/). Have fun and be nice! :D
 
 ## How to use
 
@@ -19,10 +19,10 @@ This is the right place for all kinky developers to create restrictive and/or ki
 Just download them [here](https://letmegooglethat.com/?q=download+stl+files)!
 
 Ok, you meant specific files from this project? ;)
-Follow the how to use list above! Then start OpenSCAD and open the desired file using the file menu. Then press the button with the hourglass symbol, that has a flyover saying "render". After it is finished, visually check the result. If satisfied press the button that says "stl". If you did edit personalDimensions.scad, the stl file should be a perfect fit for you.
+Follow the "how to use" list above! Then start OpenSCAD and open the desired file using the file menu. Then press the button with the hourglass symbol, that has a flyover saying "render". After it is finished, visually check the result. If satisfied press the button that says "stl". If you did edit personalDimensions.scad, the stl file should be a perfect fit for you.
 
 ## You have a problem?
-We are sorry! Please use the project's issues on github. If possible always add the files personalDimension.scad and moduleConfig.scad that you used! And mention that the files are not yours, but your tester's! You don't want the size of your own sex organ on the internet! If you don't have a tester, invent one!
+We are sorry! Please use the project's issues on github. If possible always add the files personalDimensions.scad and moduleConfig.scad that you used! And mention that the files are not yours, but your tester's! You don't want the size of your own sex organ on the internet! If you don't have a tester, invent one!
 
 ## Contributing
 
@@ -39,10 +39,13 @@ Put the file into the test/data folder and using the following number. Be sure t
 
 ### IDEs/Tools
 These tools work on all OSs.
+
 For code formatting install clang-format. 
+
 I would recommend using Visual Studio Code with this extension: "OpenSCAD Language Support" with these settings:
-"Fmt Exe Path" - put here the path to the clang-format command
-"Fmt Style" - choose "file"
+
+- "Fmt Exe Path" - put here the path to the clang-format command
+- "Fmt Style" - choose "file"
 
 
 ## License
