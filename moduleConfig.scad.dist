@@ -1,0 +1,20 @@
+include <personalDimensions.scad>
+
+function portlaoiseRingConfig(name) = 
+    name == "flapAngle" ? 30 : (
+    name == "flapRadius1" ? 150 : (
+    name == "flapRadius2" ? 70 : (
+    name == "flapLength" ? 110 : (
+    name == "hasNubs" ? true : (
+            undef
+    ))))); 
+
+function padLockConfig(name) = 
+    name == "barWidth"? 3:(
+    name == "barHeight"? 13: (
+    name == "height"? 16: (
+    name == "width"? 7: (
+    name == "length"? 19: (
+    name == "timeLockWidth" ? 4 : (
+            undef
+    ))))));

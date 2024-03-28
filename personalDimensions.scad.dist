@@ -1,0 +1,30 @@
+
+
+/* [Glans measurements] */
+// measure the glans length on top
+glansTopLenght=28;
+glansDiameter=32;
+peeholeDiameter=6;
+
+/* [Penis: flacid measurements] */
+
+penisFlacidDiameter=35;
+penisFlacidLength=55;
+penisNeckFlacidDiameter=25;
+
+/* [Scrotum] */
+ballSize=32;
+scrotumArea=728;
+
+/* [Plaque] */
+plaqueText = "Sissy";
+
+
+/* [General] */
+baseRingWidth=7.5;
+baseRingDiameter=42;
+Circumcised=false;
+
+// do not chenge the values below
+connectorSize=8;
+connectorLength=19;
