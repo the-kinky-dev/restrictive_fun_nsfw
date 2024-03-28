@@ -7,6 +7,7 @@ This is the right place for all kinky developers to create restrictive and/or ki
 - [Install OpenSCAD](https://openscad.org/downloads.html)
 - [Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Clone this repo
+  > git clone https://github.com/the-kinky-dev/restrictive_fun_nsfw.git
 - rename the file personalDimension.scad.dist to personalDimension.scad
 - rename the file moduleConfig.scad.dist to moduleConfig.scad
 - Optionally (but please do! We need it for the logo atm): Install UnifrakturMaguntia.ttf on your system
